@@ -333,3 +333,10 @@ Raw Data → Preprocessing → PCA → [SVM] & [QSVM] → Accuracy Analysis
 - [Qiskit Textbook](https://qiskit.org/textbook/)
 - [Qiskit Tutorials](https://qiskit.org/documentation/tutorials/)
 - [ArXiv: Quantum SVM](https://arxiv.org/pdf/1909.06206.pdf)
+
+**Disclaimer — Troubleshooting for Quantum_AI Repository**
+
+This repository is for educational and research use in Quantum Computing and Quantum AI. Code errors may occur due to library updates, installation issues, or hardware differences. To resolve errors, check package versions, install missing dependencies (`pip` or `conda`), and restart your Jupyter kernel if needed. Consult official [Qiskit documentation](https://qiskit.org/documentation/) and use the `requirements.txt` for matching environments. Please report persistent issues or bugs via GitHub issues. Your participation supports the accuracy and reliability of this resource, please raise an issue if you think there is an error that needs to be corrected.
+Lets all keep learning together!
+
+Vaishnavi Dasika <3

@@ -33,6 +33,90 @@ Quantum_AI/
 └── README.md
 ```
 
+Below is a **technical, Markdown-compliant documentation** for your Quantum AI classes and resources. Each **video and document link** is assigned an *appropriate, topic-focused title* (names of senders/participants removed), and grouped by core themes in Quantum Computing and Quantum Machine Learning.
+
+# Quantum AI Classes — Technical Documentation
+
+A curated and well-organized collection of reference materials, video lectures, and hands-on resources for in-depth learning in **Quantum Computing** and **Quantum AI**. Each link below is categorized and titled according to the corresponding lecture or resource theme.
+
+## 🗂️ Online Quantum AI Syllabus & Major Handouts
+
+- [Intro to Quantum Cryptology (Gamma Site)](https://intro-quantum-cryptology-uwb7g0w.gamma.site/)
+- [Quantum AI Syllabus (Notion)](https://six-magazine-dcf.notion.site/Quantum-AI-Syllabus-1760f7634fb7801a8e19d25703e0e249)
+- [Quantum Error Correction (Gamma Site)](https://quantum-error-correction-v8obq92.gamma.site/)
+- [Quantum Simulation Hub (Gamma Site)](https://quantum-simulation-hub-36gqig2.gamma.site/)
+- [Algorithms in Qiskit – Introduction (Gamma Site)](https://gamma.app/docs/Algorithms-in-Qiskit-introduction-nxnrgki0vqxt7tq)
+- [Advanced VQE Options (Gamma Site)](https://gamma.app/docs/Advanced-VQE-Options-hxnwinalojj6brh)
+- [Quantum ML Algorithms - Overview (Gamma Site)](https://gamma.app/docs/Quantum-Machine-Learning-The-Algorithms-2ra67beuridvjpd)
+- [Quantum Processor Inspired ML in Biomedical Science (Gamma Site)](https://gamma.app/docs/Quantum-Processor-Inspired-Machine-Learning-in-Biomedical-Science-gbd0uibp1cwnv5v)
+- [Quantum Annealing: Principles & Applications (Gamma Site)](https://gamma.app/docs/Quantum-Annealing-Principles-Applications-and-Related-Quantum-Alg-tgudb2cohommtd3)
+- [Quantum Neural Networks for MNIST (Gamma Site)](https://gamma.app/docs/Quantum-Neural-Networks-for-MNIST-Classification-6sj0trnpysgjbwf)
+- [Gradient Calculation for Quantum Circuits (Gamma Site)](https://gamma.app/docs/Gradient-Calculation-for-Quantum-Circuits-5su9q4smjaq13a5)
+- [Understanding Artificial Intelligence (Gamma Site)](https://gamma.app/docs/Understanding-Artificial-Intelligence-67aqya7yjjshxxo)
+- [Quantum Machine Learning: Exploring Quantum States (Gamma Site)](https://gamma.app/docs/Quantum-Machine-Learning-Exploring-Quantum-States-ixffwibuetg4es5)
+- [Quantum Machine Learning: A Beginner’s Guide (Gamma Site)](https://gamma.app/docs/Quantum-Machine-Learning-A-Beginners-Guide-v23ps6yv6hfb3p2)
+- [Quantum Convolutional Neural Networks (Gamma Site)](https://gamma.app/docs/Quantum-Convolutional-Neural-Networks-hbec27cxflaywcs)
+
+## 📝 Jupyter Notebooks & GitHub Resources
+
+- [Quantum AI Main Repository (GitHub)](https://github.com/Dasika-Vaishnavi/Quantum_AI)
+- [Quantum Key Distribution — Notebook](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/QuantumKeyDistribution.ipynb)
+- [Quantum Machine Learning: Exploring Quantum States — Notebook](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/QML_Exploring_quantum_states.ipynb)
+- [VQE Qiskit Introduction — Notebook](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/VQE_Qiskit_introduction.ipynb)
+- [VQE Advanced Options — Notebook](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/vqe_advanced_options.ipynb)
+- [QSVM Classification Model — Project Directory](https://github.com/Dasika-Vaishnavi/Quantum_AI/tree/main/QSVM-Classification-Model-master)
+- [QCNN: Quantum Convolutional Neural Networks — Notebook](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/QCNN.ipynb)
+- [Gradient Calculation for Quantum Circuits — Notebook](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/gradients.ipynb)
+
+## 🖥️ Video Lectures: Quantum AI Topics (Tella Video Platform)
+
+### Introduction & Quantum ML Basics
+- [Introduction to Quantum Machine Learning](https://gamma.app/docs/Introduction-to-Quantum-Machine-Learning-o428r0sy53ltzwj)
+- [Quantum Machine Learning — A Beginner’s Guide](https://gamma.app/docs/Quantum-Machine-Learning-A-Beginners-Guide-v23ps6yv6hfb3p2)
+- [Quantum AI: The Future of Machine Learning](https://www.tella.tv/video/quantum-ai-the-future-of-machine-learning-g1jt)
+- [Quantum Machine Learning: Basics](https://www.tella.tv/video/quantum-machine-learning-basics-6rk6)
+- [Quantum ML Fundamentals — Part 1](https://www.tella.tv/video/quantum-machine-learning-fundamentals-38ei)
+- [Quantum ML Fundamentals — Part 2](https://www.tella.tv/video/quantum-machine-learning-fundamentals-38ei)
+
+### Quantum Cryptography & Error Correction
+- [Quantum Key Distribution — Theory & Code](https://github.com/Dasika-Vaishnavi/Quantum_AI/blob/main/QuantumKeyDistribution.ipynb)
+- [Quantum Error Correction — Explained](https://www.tella.tv/video/quantum-error-correction-explained-8zci)
+
+### Learning by Simulation
+- [Building a Quantum Simulator](https://www.tella.tv/video/building-a-quantum-simulator-12bp)
+
+### Quantum ML Algorithms & Applications
+- [Quantum kNN: Revolutionizing Machine Learning](https://www.tella.tv/video/quantum-knn-revolutionizing-machine-learning-bah5)
+- [Quantum Annealing — Concepts & Algorithms](https://gamma.app/docs/Quantum-Annealing-Principles-Applications-and-Related-Quantum-Alg-tgudb2cohommtd3)
+- [Quantum ML Algorithms: End-to-End Project Pipeline](https://github.com/Dasika-Vaishnavi/Quantum_AI/tree/main/QSVM-Classification-Model-master)
+
+### Neural Networks & Deep Learning
+- [Quantum Convolutional Neural Networks — Theory](https://gamma.app/docs/Quantum-Convolutional-Neural-Networks-hbec27cxflaywcs)
+- [Quantum Neural Networks: Fundamentals](https://www.tella.tv/video/quantum-neural-networks-explained-di1s)
+- [Quantum Neural Networks: Application Example 1](https://www.tella.tv/video/sri-bhuvana-vaishnavis-video-45ra)
+- [Quantum Neural Networks: Application Example 2](https://www.tella.tv/video/sri-bhuvana-vaishnavis-video-ej1q)
+- [Quantum Neural Networks: Application Example 3](https://www.tella.tv/video/my-video-97kx)
+
+### Simulation & Lecture Sessions (General)
+- [Simulation and Quantum Class — General Lecture](https://www.loom.com/share/d10fbf2cd05442c5838cb267eb477e4c?sid=2450f5b1-f2c6-4296-8f67-9f5e1967a0fa)
+- [Simulation and Quantum Class — Session 2](https://www.loom.com/share/88c4369c015e400f992d62aa3aec9698?sid=f4c71dcf-fa51-44ce-9367-4e9a5a13c812)
+- [Simulation and Quantum Class — Gradient Calculation](https://www.loom.com/share/277042553c994a77a64f631f69dc02a8?sid=d36e93f6-7a92-49f4-964a-553f03cd5259)
+- [Simulation and Quantum Class — Advanced Gradients](https://www.loom.com/share/42a2815a99044b2f86f7066d5d1e616e?sid=2f708edb-7c95-4da0-9e36-f406288ddfbc)
+- [Quantum Class — General Discussion](https://www.loom.com/share/d10fbf2cd05442c5838cb267eb477e4c?sid=2450f5b1-f2c6-4296-8f67-9f5e1967a0fa)
+- [Quantum Class — Application Demo](https://www.loom.com/share/my-video-2-79sa)
+- [Quantum Class — Final Concepts](https://www.loom.com/share/my-video-di1s)
+
+### Topic-Specific Sessions
+- [Quantum Simulation Hub — Case Studies](https://quantum-simulation-hub-36gqig2.gamma.site/)
+- [Gradient Calculation for Quantum Circuits — Theory](https://gamma.app/docs/Gradient-Calculation-for-Quantum-Circuits-5su9q4smjaq13a5)
+- [Quantum ML: Exploring Quantum States — Demo](https://gamma.app/docs/Quantum-Machine-Learning-Exploring-Quantum-States-ixffwibuetg4es5)
+
+## 📚 Google Documents
+
+- [Lecture Notes — Quantum AI](https://docs.google.com/document/d/1wTEOGS5DoZpgYmPRs01gR524AfC60qOn74GBztvsvk8/edit?tab=t.0)
+
+> **This curated technical index will help Quantum AI students, educators, and researchers quickly locate videos, interactive notebooks, and documentation relevant to all modern topics in Quantum Computing and Quantum Machine Learning.**
+
 ## 📚 Lesson-by-Lesson Documentation
 
 ### 1. Installing_Qiskit_and_Dependancies.ipynb

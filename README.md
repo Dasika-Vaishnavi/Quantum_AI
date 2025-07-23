@@ -1,7 +1,8 @@
 # Quantum_AI Repository 
 Welcome to the **Quantum_AI** repository—a comprehensive, hands-on exploration of **Quantum Computing** and **Quantum Artificial Intelligence**. This documentation is designed to guide advanced learners and professionals through the codebase, providing technical clarity and actionable context at each step.
-From Vaishnavi Dasika <3
 
+### From [Vaishnavi Dasika](https://linktr.ee/Vaishnavi_Dasika) <3
+### Please leave a star🌟 if you found this helpful!
 ## 📦 Repository Structure
 
 ```
